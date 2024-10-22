@@ -1,10 +1,9 @@
 ---
 layout: post
-title: You're up and running!
+title: Welcome to BalyCorp – Your Trusted IT Infrastructure Consulting Partner
+
 ---
 
-Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
+At BalyCorp, we specialize in delivering cutting-edge IT consulting services that drive operational efficiency and digital transformation. With years of experience across cloud, on-prem infrastructure, and AI integration, we empower businesses to leverage innovative technology for growth. Our team offers expert solutions in cloud migration, DevOps, MLOps, and infrastructure optimization, ensuring your business stays ahead in today's fast-paced digital landscape.
 
-![_config.yml]({{ site.baseurl }}/images/config.png)
-
-The easiest way to make your first post is to edit this one. Go into /_posts/ and update the Hello World markdown file. For more instructions head over to the [Jekyll Now repository](https://github.com/barryclark/jekyll-now) on GitHub.
+Partner with us to streamline your IT, reduce costs, and unlock the potential of scalable, efficient systems tailored to your unique needs.
